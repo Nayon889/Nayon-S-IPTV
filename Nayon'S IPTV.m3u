@@ -32,7 +32,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 
-#EXTINF:-1 tvg-logo="https://shopno-tv.com/wp-content/uploads/2019/09/shopno.png",Shopno
+#EXTINF:-1 tvg-id="DBC News" tvg-name="Shopno" tvg-logo="https://shopno-tv.com/wp-content/uploads/2019/09/shopno.png",Shopno
 #EXTVLCOPT:network-caching=1000
 https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 
