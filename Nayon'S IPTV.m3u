@@ -99,7 +99,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://dnc.techtunes.io/tDrive/tuner/kripaparthi/495354/Peace-TV-Bangla.jpg" group-title="Islamic", Peace TV Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Ekushey_Television_Logo.png",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://www.ekushey-tv.com/media/common/EkusheyTVLogo.png",Ekushey TV
 #EXTVLCOPT:network-caching=1000
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
