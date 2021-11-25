@@ -60,6 +60,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 http://str24.l9574.com/519.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_46.png" group-title="Bangla-IPTV",Sristy Tv
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/400px-Bangladesh_Television_Logo.svg.png",BTV
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
