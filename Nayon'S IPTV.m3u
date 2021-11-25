@@ -32,6 +32,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 
+#EXTINF:-1 tvg-logo="https://shopno-tv.com/wp-content/uploads/2019/09/shopno.png",Shopno
+#EXTVLCOPT:network-caching=1000
+https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
+
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg",Jamuna TV
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
