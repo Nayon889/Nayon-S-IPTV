@@ -165,7 +165,9 @@ http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla-IPTV",Amar Bangla http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla-IPTV",Amar Bangla
+#EXTVLCOPT:network-caching=1000
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTV Documentary
 #EXTVLCOPT:network-caching=1000
