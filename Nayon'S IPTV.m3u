@@ -694,31 +694,58 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1343
 #EXTINF: -1 group-title="Indian Worldwide", Star Sports 3 HD IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1342
 
-#EXTINF: -1 group-title="Indian Worldwide", News 24 IN
+#EXTINF: -1 group-title="News", News 24 IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2854
-#EXTINF: -1 group-title="Indian Worldwide", Times Now IN
+#EXTINF: -1 group-title="News", Times Now IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4749
-#EXTINF: -1 group-title="Indian Worldwide", AAJ TAK UK IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5999
-#EXTINF: -1 group-title="Indian Worldwide", ABP News UK IN
+
+#EXTINF: -1 group-title="News", ABP News UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5998
-#EXTINF: -1 group-title="Indian Worldwide", And TV UK IN
+
+#EXTINF: -1 group-title="", And TV UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5997
-#EXTINF: -1 group-title="Indian Worldwide", NDTV 24x7 UK IN
+
+#EXTINF: -1 group-title="News", NDTV 24x7 UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5988
-#EXTINF: -1 group-title="Indian Worldwide", AAJ TAK IN
+#EXTINF: -1 group-title="News", AAJ TAK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4752
-#EXTINF: -1 group-title="Indian Worldwide", India TV IN
+#EXTINF: -1 group-title="News", India TV IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4743
-#EXTINF: -1 group-title="Indian Worldwide", NDTV India IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4745
-#EXTINF: -1 group-title="Indian Worldwide", Zee News IN
+
+#EXTINF: -1 group-title="News", Zee News IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4759
 #EXTINF: -1 group-title="Indian Worldwide", Discovery IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2857
-#EXTINF: -1 group-title="Indian Worldwide", IBN 7 IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4721
-#EXTINF: -1 group-title="Indian Worldwide", Ten Action IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2808
-#EXTINF: -1 group-title="Indian Worldwide", TEN 1 HD IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2809
+
+#EXTINF: -1 group-title="Indian Worldwide", LifeOK IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2848
+#EXTINF: -1 group-title="Indian Worldwide", B4U Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2849
+#EXTINF: -1 group-title="Indian Worldwide", UTV Bindas IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2803
+#EXTINF: -1 group-title="Indian Worldwide", Zee Action IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2797
+#EXTINF: -1 group-title="Indian Worldwide", Zee Anmol IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2796
+#EXTINF: -1 group-title="Indian Worldwide", UTV Movies IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2795
+#EXTINF: -1 group-title="Indian Worldwide", Zee Business IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2794
+#EXTINF: -1 group-title="Indian Worldwide", Zee Zindagi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2785
+#EXTINF: -1 group-title="Indian Worldwide", ZeeNews IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2784
+#EXTINF: -1 group-title="Indian Worldwide", Zee Classic IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1346
+#EXTINF: -1 group-title="Indian Worldwide", Zee Cinema IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1347
+#EXTINF: -1 group-title="Indian Worldwide", Life OK HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4744
+#EXTINF: -1 group-title="Indian Worldwide", Zindagi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4763
+#EXTINF: -1 group-title="Indian Worldwide", Zoom IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4751
+#EXTINF: -1 group-title="Indian Worldwide", Star Plus IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2816
+#EXTINF: -1 group-title="Indian Worldwide", Zee ETC IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4762
