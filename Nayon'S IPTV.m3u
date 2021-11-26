@@ -225,10 +225,6 @@ https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3931Xerh4jND_4t1m5HUF18W2_F7Z67VX3dlZKOvu-rdq53RfDV01UyHb&s=10",Desh TV
-#EXTVLCOPT:network-caching=1000
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
@@ -549,3 +545,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/193.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema HD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3931Xerh4jND_4t1m5HUF18W2_F7Z67VX3dlZKOvu-rdq53RfDV01UyHb&s=10",Desh TV
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
