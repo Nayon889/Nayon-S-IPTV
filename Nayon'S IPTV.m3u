@@ -227,8 +227,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
 #EXTVLCOPT:network-caching=1000
-#http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
+http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
 #EXTVLCOPT:network-caching=1000
