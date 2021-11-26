@@ -652,25 +652,46 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5924
 #EXTINF: -1 group-title="Indian Worldwide", NRB TV Bangla IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5921
 
-#EXTINF: -1 group-title="Indian Worldwide", Dhoom Music Bangla IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5961
-#EXTINF: -1 group-title="Indian Worldwide", Dhoom Music Bangla HD IN
+#EXTINF: -1 group-title="Music", Dhoom Music
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5931
-#EXTINF: -1 group-title="Indian Worldwide", Colors+ Bangla IN
+#EXTINF: -1 group-title="Indian Worldwide", Colors+
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5937
 #EXTINF: -1 group-title="Indian Worldwide", Manoranjan TV IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2846
 #EXTINF: -1 group-title="Indian Worldwide", ARY Digital UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5996
-#EXTINF: -1 group-title="Indian Worldwide", Britasia TV UK IN
+#EXTINF: -1 group-title="Music", Britasia Music
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5995
-#EXTINF: -1 group-title="Indian Worldwide", GEO News UK IN
+
+#EXTINF: -1 group-title="News", GEO News UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5993
-#EXTINF: -1 group-title="Indian Worldwide", GEO TV UK IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5991
-#EXTINF: -1 group-title="Indian Worldwide", HUM Europe UK IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5990
-#EXTINF: -1 group-title="Indian Worldwide", Noor TV UK IN
+
+#EXTINF: -1 group-title="Islamic", Noor TV UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5987
-#EXTINF: -1 group-title="Indian Worldwide", Takbeer TV UK IN
+#EXTINF: -1 group-title="Islamic", Takbeer TV UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5978
+
+#EXTINF: -1 group-title="Indian Worldwide", Jus One TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5904
+#EXTINF: -1 group-title="Indian Worldwide", JUS Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5905
+#EXTINF: -1 group-title="Indian Worldwide", MH1 News Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5892
+#EXTINF: -1 group-title="Indian Worldwide", MH1 Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5906
+#EXTINF: -1 group-title="Indian Worldwide", Zee Punjabi Haryana TV Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5888
+#EXTINF: -1 group-title="Indian Worldwide", Zee Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5912
+#EXTINF: -1 group-title="Indian Worldwide", ChakDE IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2864
+#EXTINF: -1 group-title="Indian Worldwide", Dabang TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2863
+#EXTINF: -1 group-title="Indian Worldwide", DD Punjabi IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2862
+#EXTINF: -1 group-title="Indian Worldwide", Desi TV IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2860
+#EXTINF: -1 group-title="Indian Worldwide", MH1 Music IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2844
+#EXTINF: -1 group-title="Indian Worldwide", Media Punjab IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2845
