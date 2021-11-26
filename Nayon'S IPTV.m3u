@@ -225,7 +225,7 @@ https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3931Xerh4jND_4t1m5HUF18W2_F7Z67VX3dlZKOvu-rdq53RfDV01UyHb&s=10",Desh TV
 #EXTVLCOPT:network-caching=1000
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
 
