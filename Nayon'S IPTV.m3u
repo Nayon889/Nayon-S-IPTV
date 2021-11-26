@@ -567,3 +567,6 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
+#EXTINF: -1 group-title="Indian Bangla", STAR JALSHA HD VIP IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43594
