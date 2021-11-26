@@ -376,9 +376,8 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production",& TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7FvYb852qG0hvJI7RAeCAxbAdgcV8yNXI9bJvKKCwU7rzuxHdC2-Ud8&s=10",& TV HD
 #EXTVLCOPT:network-caching=1000
-#EXTINF: -1 group-title="", And TV UK IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5997
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",Sony HD
