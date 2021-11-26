@@ -223,11 +223,12 @@ https://rhridoy136.shortcm.li/bijoytv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg",Deepto TV
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
 #EXTVLCOPT:network-caching=1000
 http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
 #EXTVLCOPT:network-caching=1000
