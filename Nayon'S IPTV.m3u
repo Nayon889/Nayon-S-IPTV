@@ -408,9 +408,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Science
 #EXTVLCOPT:network-caching=1000
-https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74156
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",Sony Max HD
 #EXTVLCOPT:network-caching=1000
@@ -457,7 +457,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQEEE9PjvLlJAA/company-logo_200_200/0/1618911537271?e=2159024400&v=beta&t=MDQn-dYsZd3NNaw02K1Lc9gcV49bSJGNzQdFRnheh_s",Discovery HD 
 #EXTVLCOPT:network-caching=1000
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1638
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/114931-pic31.jpg?format=webp&w=400&dpr=2.6",Colors Bangla HD
 #EXTVLCOPT:network-caching=1000
@@ -528,7 +528,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43595
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD
-http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43597
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png",Discovery Bangla
 http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
