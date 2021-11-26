@@ -269,7 +269,7 @@ http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcp8IvUAr5AUbOb88QMSCT-CX314qGdW1lxPhnJQ=s900-c-k-c0x00ffffff-no-rj",Zee TV
 #EXTVLCOPT:network-caching=1000
-https://26gl.short.gy/ZeeTvHd-by-DoraTv.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcp8IvUAr5AUbOb88QMSCT-CX314qGdW1lxPhnJQ=s900-c-k-c0x00ffffff-no-rj",Zee TV 2
 http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
@@ -548,6 +548,9 @@ http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXOfiTwvGevvHtC3-Fv_DoDVoS7SwU2Vqgg&usqp=CAU",Star Gold
 #EXTVLCOPT:network-caching=1000
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2848.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCicwgwzMWUFwGIdj1AO_Hx8IDTmY9O4gN2w&usqp=CAU",Star Gold HD
 #EXTVLCOPT:network-caching=1000
