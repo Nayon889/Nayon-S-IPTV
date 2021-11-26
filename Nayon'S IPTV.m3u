@@ -522,10 +522,10 @@ https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a4
 http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/43596.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 2 HD
-http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 3 HD
-http://65.2.4.240/jioo.php?c=Ten3_HD&q=800&e=junk.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD
 http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
@@ -580,13 +580,5 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF: -1 group-title="Hindi", IN: Food TV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/176
-#EXTINF: -1 group-title="Hindi", IN: TEN 1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#EXTINF: -1 group-title="Hindi", IN: TEN 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
-#EXTINF: -1 group-title="Hindi", IN: TEN 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
-#EXTINF: -1 group-title="Hindi", IN: TEN 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF: -1 group-title="Hindi", IN: TEN Golf HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
