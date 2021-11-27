@@ -432,6 +432,10 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/187.m3u8
 #EXTVLCOPT:network-caching=1000
 #http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QHyx3ak9bcJSTrEjwhSMn1IsE77O-tOjMA&usqp=CAU",Travel XP
+#EXTVLCOPT:network-caching=1000
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png",TLC SD Hindi 
 #EXTVLCOPT:network-caching=1000
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8 
