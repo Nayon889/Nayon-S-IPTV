@@ -435,6 +435,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/187.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcRA76cynjmWaq1qFo7jmVZgzFhXK3LF5ug&usqp=CAU",Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16015
+#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QHyx3ak9bcJSTrEjwhSMn1IsE77O-tOjMA&usqp=CAU",Travel XP
 #EXTVLCOPT:network-caching=1000
