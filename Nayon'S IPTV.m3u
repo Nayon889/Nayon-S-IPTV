@@ -119,7 +119,7 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV™
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnc.techtunes.io/tDrive/tuner/kripaparthi/495354/Peace-TV-Bangla.jpg" group-title="Islamic", Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://peacetv.tv/wp-content/uploads/elementor/thumbs/Salaam-final-logo-with-Tagline-04@2x-pb53nofvmmwxg1ukxfg00nmyj9r7hgxztwjgkhqlla.png" group-title="Islamic", Peace TV Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OVHdRDTjpvBTvXOk0xwMOfhSjCG_cCmt1w&usqp=CAU",Ekushey TV
