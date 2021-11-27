@@ -428,9 +428,9 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTVLCOPT:network-caching=1000
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/187.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcRA76cynjmWaq1qFo7jmVZgzFhXK3LF5ug&usqp=CAU",Animal Planet HD
 #EXTVLCOPT:network-caching=1000
-#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QHyx3ak9bcJSTrEjwhSMn1IsE77O-tOjMA&usqp=CAU",Travel XP
 #EXTVLCOPT:network-caching=1000
@@ -620,7 +620,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16026
 #EXTINF: -1 group-title="Music", ILOVEYOU
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16040
 
-#EXTINF: -1 group-title="Indian Worldwide", Animal Planet HD IN
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QHyx3ak9bcJSTrEjwhSMn1IsE77O-tOjMA&usqp=CAU" group-title="", Animal Planet HD IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16015
 
 EXTINF: -1 group-title="Indian Worldwide", Big Magic IN
