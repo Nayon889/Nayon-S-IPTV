@@ -576,9 +576,9 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest?cb=20191203094754" group-title="Indian Bangla", Star Jalsha
 http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/43594.m3u8
 
-#EXTINF: -1 group-title="Hindi", IN: Food TV
+#EXTINF: -1 group-title="", IN: Food TV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/176
-#EXTINF: -1 group-title="Hindi", IN: TEN Golf HD
+#EXTINF: -1 group-title="", IN: TEN Golf HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
 
 #EXTINF: -1 group-title="", MAA TV
@@ -744,6 +744,10 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4751
 
 #EXTINF: -1 group-title="", Zee Hollywood
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4762
+
+#EXTINF:-1 tvg-logo="",Sport TV
+#EXTVLCOPT:network-caching=1000
+https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Favourite Songs" tvg-logo="https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.18169-9/fr/cp0/e15/q65/12004710_1491785874471643_1816414957095447849_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoiYiJ9&_nc_eui2=AeGxkED80ki0n1IcQg4nuzrBSQDp0lZcaDdJAOnSVlxoN1RoNmguLf5xVkgd74KhFSPC_Oz0hsgjNdcuckDaEQ9T&_nc_ohc=6NehbQefFfcAX8MGyR2&tn=G6CuV30UAVSg8QYt&_nc_ht=scontent.fjsr6-1.fna&oh=dd0d00d7453dbb0e5821dfe70a4174ad&oe=61C52979",Nayon ❤
 #EXTVLCOPT:network-caching=1000
