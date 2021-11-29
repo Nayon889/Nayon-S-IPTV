@@ -467,7 +467,8 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/792/2721792-middle.png",UTV Action
 #EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+http://5giptv.me:8880/34516317/55678974/179148
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsQSiNvFP3xy9RCCD5dRrP832YRCnUGe3JSipgsg=s900-c-k-c0x00ffffff-no-rj",Madani Bangla 
 #EXTVLCOPT:network-caching=1000
