@@ -431,7 +431,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1299
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png",Sony Max 2
-https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16036
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png",Peace TV
 #EXTVLCOPT:network-caching=1000
