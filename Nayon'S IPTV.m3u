@@ -735,10 +735,12 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2848
 #EXTINF: -1 group-title="Indian Worldwide", UTV Bindas IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2803
 
-#EXTINF: -1 group-title="Indian Worldwide", Zee Action IN
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU" group-title="", Zee Action
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2797
-#EXTINF: -1 group-title="Indian Worldwide", Zee Anmol IN
+
+#EXTINF: -1 tvg-logo="https://www.dishurdu.com/images/ZEE-Anmol-Logo.png" group-title="", Zee Anmol
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2796
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_taiD3U3vDMKxwqqBGygZgTgDZrDO79hX7Q&usqp=CAU" group-title="", UTV Movies
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2795
 
