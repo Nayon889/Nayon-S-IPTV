@@ -539,6 +539,9 @@ http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75",Nick JR.
 https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TEN_GOLF_HD_1.png" group-title="", IN: TEN Golf HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 1 HD
 http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/43596.m3u8
 
@@ -588,10 +591,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
-#EXTINF: -1 group-title="", IN: Food TV
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPqIpyisaANnE_Csc9Q8VMphmYN6VywF2mA&usqp=CAU" group-title="", IN: Food TV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/176
-#EXTINF: -1 group-title="", IN: TEN Golf HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
 
 #EXTINF: -1 group-title="", MAA TV
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43603
