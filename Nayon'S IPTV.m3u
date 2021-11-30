@@ -726,10 +726,10 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4743
 
 #EXTINF: -1 group-title="News", Zee News IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4759
-#EXTINF: -1 group-title="", Discovery IN
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wpySkeVZAS8dwEvbsceIgQqdhUJ1szz0hg&usqp=CAU"  group-title="", Discovery IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2857
 
-#EXTINF: -1 group-title="", Star Life
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewxoFij-iHHCNvkUN8wqnUdlIhUD0_4Xmng&usqp=CAU" group-title="", Star Life
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2848
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsD0R3IAH5iEplgSNojptnbE2lyU9qxOEvAg&usqp=CAU" group-title="", UTV Bindas
