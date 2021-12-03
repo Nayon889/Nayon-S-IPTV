@@ -771,7 +771,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4762
 #EXTVLCOPT:network-caching=1000
 https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="",Super Sports Cricket
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015559954/iqqFh-0TdTj05m_s-yAb09iR_xkKnDSww9O_vVNiZyRO5BO9bZuxjbDixejvOqbpdw=s300?v=1",Super Sports Cricket
 #EXTVLCOPT:network-caching=1000
 http://103.157.210.165:8000/play/a024/index.m3u8
 
