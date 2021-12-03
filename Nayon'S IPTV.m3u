@@ -340,7 +340,7 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png",NAT GEO Wild
 #EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://103.157.210.165:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png",Saudi Quran 
 #EXTVLCOPT:network-caching=1000
@@ -462,8 +462,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/187.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcRA76cynjmWaq1qFo7jmVZgzFhXK3LF5ug&usqp=CAU",Animal Planet HD
 #EXTVLCOPT:network-caching=1000
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16015
-#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16015
+http://103.157.210.165:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QHyx3ak9bcJSTrEjwhSMn1IsE77O-tOjMA&usqp=CAU",Travel XP
 #EXTVLCOPT:network-caching=1000
@@ -750,7 +750,8 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2797
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2796
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_taiD3U3vDMKxwqqBGygZgTgDZrDO79hX7Q&usqp=CAU" group-title="", UTV Movies
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2795
+#http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2795
+http://103.131.212.138:8000/play/a00j/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_TeqT1vS2p9dlzm33ce3g-Lknu2a0VJ6KA&usqp=CAU" group-title="News", Zee Media
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2794
