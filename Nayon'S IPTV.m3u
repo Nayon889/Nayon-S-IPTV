@@ -746,9 +746,10 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4752
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4743
 
 #EXTINF: -1 group-title="News", Zee News IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4759
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wpySkeVZAS8dwEvbsceIgQqdhUJ1szz0hg&usqp=CAU"  group-title="", Discovery IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2857
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wpySkeVZAS8dwEvbsceIgQqdhUJ1szz0hg&usqp=CAU"  group-title="", Discovery Bangla
+https://last.gcdn.co/IND415/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewxoFij-iHHCNvkUN8wqnUdlIhUD0_4Xmng&usqp=CAU" group-title="", Star Life
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2848
