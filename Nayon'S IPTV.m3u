@@ -774,8 +774,8 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2794
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhwVD-L3hCQ7bPmMXXIy8AyL5udFyqG1eiw&usqp=CAU" group-title="", Zee Tamil
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2785
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWZo8Ht-dFyCgsqc-pwA7ZaQJMXSDg_-NaA&usqp=CAU" group-title="Indian Worldwide", Zee Classic IN
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1346
+#EXTINF: -1 tvg-logo="" group-title="Indian Worldwide", Comedy Central
+http://183.178.58.115:8033/0.m3u8
 
 #EXTINF: -1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/d7/5f/77/d75f7773-115c-a37d-3035-e73ecbf6742b/source/512x512bb.jpg" group-title="Indian Worldwide", Zindagi IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4763
