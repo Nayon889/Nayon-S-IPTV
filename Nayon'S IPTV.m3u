@@ -382,10 +382,6 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png",ET Now
-#EXTVLCOPT:network-caching=1000
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?@i4e.com.bd
-
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png",Dil Se
 #EXTVLCOPT:network-caching=1000
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -526,12 +522,6 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD+
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png",A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg",Sony Yay
-http://65.2.4.240/jioo.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png", Pogo
 http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=600&e=junk.m3u8
 
@@ -549,24 +539,6 @@ https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a4
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TEN_GOLF_HD_1.png" group-title="", IN: TEN Golf HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 1 HD
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/43596.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 2 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43595
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 3 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43597
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2popP2rJ31aEcgcHgrpzLeJsOtMi9VTxFA&usqp=CAU" group-title="", Star Sports 2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43607
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png",Discovery Bangla
 http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
@@ -763,6 +735,10 @@ http://103.131.212.138:8000/play/a00j/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_TeqT1vS2p9dlzm33ce3g-Lknu2a0VJ6KA&usqp=CAU" group-title="News", Zee Media
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2794
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png",ET Now
+#EXTVLCOPT:network-caching=1000
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?@i4e.com.bd
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhwVD-L3hCQ7bPmMXXIy8AyL5udFyqG1eiw&usqp=CAU" group-title="", Zee Tamil
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2785
 
@@ -796,3 +772,24 @@ http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",beIN Sports 2
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 1 HD
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/43596.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 2 HD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43595
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43597
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2popP2rJ31aEcgcHgrpzLeJsOtMi9VTxFA&usqp=CAU" group-title="", Star Sports 2
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43607
