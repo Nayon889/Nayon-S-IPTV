@@ -171,13 +171,13 @@ http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
 #EXTVLCOPT:network-caching=1000
-#http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
 http://103.78.255.178:8080/gtv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohZM1un9pMGU_T8e4MHBDxTMA42_Zxxx5Wg&usqp=CAU",Gaan Bangla
 #EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+http://208.86.19.21/612.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SomoyTV" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png",Somoy TV
 #EXTVLCOPT:network-caching=1000
