@@ -252,14 +252,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png",beIN Sports 1
-#EXTVLCOPT:network-caching=1000
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",beIN Sports 2
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="http://15.20.20.20/live/channel-logo/music-india.png",Music India
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
@@ -796,3 +788,11 @@ http://103.157.210.165:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU",BT Sport TV 1
 #EXTVLCOPT:network-caching=1000
 https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png",beIN Sports 1
+#EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",beIN Sports 2
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
