@@ -793,6 +793,6 @@ https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.157.210.165:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-logo="",BT Sport1 TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU",BT Sport TV 1
 #EXTVLCOPT:network-caching=1000
 https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
