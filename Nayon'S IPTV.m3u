@@ -220,18 +220,6 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png",Zing
-#EXTVLCOPT:network-caching=1000
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16029
-
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://i.imgur.com/6h83JRO.png",9X Jalwa
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0nc/index.m3u8
-
-#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
-#EXTVLCOPT:network-caching=1000
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
 #EXTINF:-1 tvg-id="Amar Bangla" tvg-logo="https://pbs.twimg.com/profile_images/876837140390305793/hbLBrxmj.png",Amar Bangla
 #EXTVLCOPT:network-caching=1000
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
@@ -752,6 +740,18 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4751
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="", Zee Bollywood
 http://208.86.19.21/701.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png"group-title="Music",Zing
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0wm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6h83JRO.png",9X Jalwa
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
+#EXTVLCOPT:network-caching=1000
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sport TV
 #EXTVLCOPT:network-caching=1000
