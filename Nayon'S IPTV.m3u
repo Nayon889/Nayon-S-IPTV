@@ -172,7 +172,8 @@ http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
 #EXTVLCOPT:network-caching=1000
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
-http://103.78.255.178:8080/gtv/index.m3u8
+#http://103.78.255.178:8080/gtv/index.m3u8
+https://last.gcdn.co/IND425/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohZM1un9pMGU_T8e4MHBDxTMA42_Zxxx5Wg&usqp=CAU",Gaan Bangla
 #EXTVLCOPT:network-caching=1000
