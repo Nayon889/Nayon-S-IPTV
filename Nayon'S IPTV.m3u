@@ -725,13 +725,15 @@ http://103.131.212.138:8000/play/a00p/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nick.jpeg",Nick Bangla
-#EXTVLCOPT:network-caching=1000
-https://durbinlive.com:443/live/jio?c=Nickelodeon&q=auto&e=IshanJiotv.m3u8
+
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nick.jpeg",Nick Bangla
 #EXTVLCOPT:network-caching=1000
 https://durbinlive.com:443/live/jio?c=Nick_Bangla&q=auto&e=IshanJiotv.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nick.jpeg",Nick Hindi
+#EXTVLCOPT:network-caching=1000
+https://durbinlive.com:443/live/jio?c=Nickelodeon&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/cn%20hindi.png",Cartoon Network Hindi
 #EXTVLCOPT:network-caching=1000
