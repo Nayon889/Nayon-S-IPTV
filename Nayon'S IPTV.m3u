@@ -745,7 +745,8 @@ https://durbinlive.com:443/live/jio?c=Pogo_Hindi&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Hungama_TV.svg.png",Hungama
 #EXTVLCOPT:network-caching=1000
-http://103.153.39.36:8000/play/a01x
+#http://103.153.39.36:8000/play/a01x
+https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Disney_Channel_logo.svg.png",Disney Channel
 #EXTVLCOPT:network-caching=1000
