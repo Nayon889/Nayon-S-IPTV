@@ -639,7 +639,7 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
 #EXTVLCOPT:network-caching=1000
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+#http://62.210.123.137:25461/live/carter/GUV1bMq2VK/23658.m3u8?
 http://103.161.2.142/hls/ngohd.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
