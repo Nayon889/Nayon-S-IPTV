@@ -192,6 +192,10 @@ http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 http://208.86.19.21/612.stream/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="",ATN Music
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",CHANNEL 9 HD
 #EXTVLCOPT:network-caching=1000
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
