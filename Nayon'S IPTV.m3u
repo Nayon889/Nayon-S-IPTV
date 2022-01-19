@@ -52,7 +52,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#https://tempx.jagobd.com:441/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#https://tempskyview.jagobd.com:441/boishakhi/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.channelionline.com/wp-content/uploads/2018/04/channelionline.jpg",Channel I HD
 #EXTVLCOPT:network-caching=1000
@@ -192,6 +195,8 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png",Bijoy TV
 #EXTVLCOPT:network-caching=1000
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_2Zt9HBiJkPR-lCMhjGi_ZQO_JBAHB3vtw&usqp=CAU",Nobodip TV
 #EXTVLCOPT:network-caching=1000
@@ -208,9 +213,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",CHANNEL 9 HD
 #EXTVLCOPT:network-caching=1000
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#http://103.161.2.142/hls/channel9.m3u8
-http://208.86.19.21/608.stream/index.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 
 
