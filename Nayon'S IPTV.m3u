@@ -183,6 +183,10 @@ https://streamer-1.toffeelive.com/mobile_hls/ruposhi__bangla/5/04dfcf51f5f17bc77
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #http://103.161.2.142/hls/duronto.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png",Bijoy TV
+#EXTVLCOPT:network-caching=1000
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_2Zt9HBiJkPR-lCMhjGi_ZQO_JBAHB3vtw&usqp=CAU",Nobodip TV
 #EXTVLCOPT:network-caching=1000
 http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
